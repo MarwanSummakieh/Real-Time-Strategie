@@ -1,5 +1,6 @@
 # real-time-strategie
-# youtube: 
+# youtube:
+https://youtu.be/8PO0YCkXQO0
 # sources of information:
 https://hyunkell.com/blog/rts-style-unit-selection-in-unity-5/
 https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/inheritance
